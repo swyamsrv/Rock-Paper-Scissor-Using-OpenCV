@@ -5,7 +5,7 @@ Streamlit turns data scripts into shareable web apps in minutes.
 Thus by the use of OpenCV which is Open Source Computer Vision Library which is an eye for your compouter and it scans the reading of the hand
 
 
-## THE STARTING OF THE GANE IS LIKE
+## THE STARTING OF THE GAME IS LIKE
 
 ![071bacc7-0ade-47b8-b150-5d0a0be851c5](https://user-images.githubusercontent.com/75639917/194947487-7b39b1ce-ed0f-48c8-a4dc-bf5b361b9c3c.jpg)
 
